@@ -1,1 +1,1 @@
-The "Hello world" to IoT. let start
+The "Hello world" to IoT. let's start
